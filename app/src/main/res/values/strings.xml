@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EighteenArtisan</string>
+    <string name="city_name">城市名称</string>
+    <string name="toolbar_text">输入商户名/搜索词</string>
+    <string name="toolbar_qiandao">签到</string>
+    <string name="my_shequ">我的社区服务</string>
+    <string name="home_xsqg">限时抢购</string>
+    <string name="home_xsxl">限时限量>></string>
+    <string name="my_titles">我的</string>
+    <string name="my_dengl">未登录</string>
+    <string name="my_denglsj">未登录</string>
+    <string name="my_wdjf_titles">67分</string>
+    <string name="my_wdjf">我的积分</string>
+</resources>
